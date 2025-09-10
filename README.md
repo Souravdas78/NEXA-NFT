@@ -25,3 +25,4 @@ Bootstrap 5 – responsive design & components
 
 JavaScript (ES6) – interactivity
 
+Live Demo - https://souravdas78.github.io/NEXA-NFT/
